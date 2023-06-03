@@ -1,4 +1,7 @@
 # UI Lab 3
+
+<img src="https://github.com/ppc-ntu-khpi/34-gui-1-Stickki/blob/74a164bc78d21f4f4e35cf83287efaab34d47e95/GUI3/src/tui/1.jpg"/>
+
 ```` java
 package tui;
 
